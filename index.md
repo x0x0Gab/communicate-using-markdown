@@ -1,14 +1,13 @@
-# HEADER 1
+# TITLE FOR MY PROJECT
 
-## HEADER 2
+## description
+this is a markdown file
 
-### HEADER 3
-
-Created a file that contains 3 headers style with markdown
-
-![Image of a cat](https://i.pinimg.com/736x/af/85/cd/af85cd30bedffbb5779005ceef09b38c.jpg)
+## image
+![Image of a cat](https://i.pinimg.com/736x/9d/06/c1/9d06c1d69e165a1bd3265df6c6de4145.jpg)
 
 
+## code snippets
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -21,3 +20,9 @@ var myVar = "Hello, world!";
 ``` python
 age = int(input("Insert your age: "));
 ```
+
+## task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
